@@ -83,19 +83,16 @@
 
   ## 🤝 Connect With Me
 <p align="left">
-  <a href="https://github.com/AkashMondal27">
+  <a href="https://github.com/biswadeepmondal101">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>&nbsp
-  <a href="https://www.linkedin.com/in/akashmondal27/">
+  <a href="https://www.linkedin.com/in/biswadeep-mondal-a7749330b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>&nbsp
-  <a href="mailto:akashmondal102003@gmail.com">
+  <a href="mailto:biswadeepmondal101@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp
-  <a href="https://twitter.com/AkashMonda27">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>&nbsp
-  <a href="https://www.instagram.com/akash__diaries/">
+  <a href="https://www.instagram.com/biswadeepmondal101"/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp
 </p> 
